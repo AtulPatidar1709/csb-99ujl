@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://atulpatidar1709.github.io/csb-99ujl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://atulpatidar1709.github.io/csb-99ujl/static/js/main.34242b0b.chunk.js",
+    "main.js.map": "https://atulpatidar1709.github.io/csb-99ujl/static/js/main.34242b0b.chunk.js.map",
+    "runtime-main.js": "https://atulpatidar1709.github.io/csb-99ujl/static/js/runtime-main.2544ddfb.js",
+    "runtime-main.js.map": "https://atulpatidar1709.github.io/csb-99ujl/static/js/runtime-main.2544ddfb.js.map",
+    "static/js/2.07f9d180.chunk.js": "https://atulpatidar1709.github.io/csb-99ujl/static/js/2.07f9d180.chunk.js",
+    "static/js/2.07f9d180.chunk.js.map": "https://atulpatidar1709.github.io/csb-99ujl/static/js/2.07f9d180.chunk.js.map",
+    "index.html": "https://atulpatidar1709.github.io/csb-99ujl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://atulpatidar1709.github.io/csb-99ujl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.07f9d180.chunk.js.LICENSE.txt": "https://atulpatidar1709.github.io/csb-99ujl/static/js/2.07f9d180.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2544ddfb.js",
+    "static/js/2.07f9d180.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.34242b0b.chunk.js"
+  ]
+}
